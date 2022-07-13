@@ -4,24 +4,15 @@ Practice creating a **website** with Github through Brock DSL *workshop*: [Makin
 
 [Markdown Cheetsheet](https://www.markdownguide.org/cheat-sheet/)
 
-Testing using branch to do some updates to tet in readme
-
-Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote: let's talk about images in markdown [^1]
 
 ---
 
 ![Sam](sam.jpeg)
 
 IMAGE NOTES
-- Images have an exclaimation point infront
-- relative link = looks in the repository
-- if inside a folder; need to introduce the path (e.g. /image)
-- square brackets provide the alt text; useful for accessibility for instance screen readers
-
-
-**Branches**
-- can be used to make changes. then use pull request to merge changes into main
+- 
 
 
 
-[^1]: This is the footnote.
+[^1]: 1) Images have an exclaimation point infront 2)relative link = looks in the repository 3)if inside a folder; need to introduce the path (e.g. /image) 4)square brackets provide the alt text; useful for accessibility for instance screen readers
