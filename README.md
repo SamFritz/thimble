@@ -2,6 +2,8 @@
 
 Practice creating a **website** with Github through Brock DSL *workshop*: [Making a Free Webpage with GitHub Pages](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
 
+[Markdown Cheetsheet](https://www.markdownguide.org/cheat-sheet/)
+
 ![Sam](sam.jpeg)
 
 IMAGE NOTES
