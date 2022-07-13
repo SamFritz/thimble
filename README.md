@@ -5,6 +5,7 @@ Practice creating a **website** with Github through Brock DSL *workshop*: [Makin
 [Markdown Cheetsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ![Sam](sam.jpeg)
+![Thimble](thimble.png)
 
 IMAGE NOTES
 - Images have an exclaimation point infront
