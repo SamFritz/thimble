@@ -7,6 +7,7 @@ Practice creating a **website** with Github through Brock DSL *workshop*: [Makin
 
 Here's a sentence with a footnote: let's talk about images in markdown [^1]
 
+[go to second page](samfritz.github.io/thimble/Page2)
 ---
 
 ![Sam](sam.jpeg)
