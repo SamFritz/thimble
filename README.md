@@ -1,4 +1,4 @@
-# Thimble and Clover
+# Oh Hello
 
 Practice creating a **website** with Github through Brock DSL *workshop*: [Making a Free Webpage with GitHub Pages](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
 
